@@ -41,7 +41,7 @@ logger.info("Log Conf File: %s" % log_conf_file)
 
 def ride(body):
     """ Receives ride data event"""
-
+    logger.info("ACIT4850 TEST")
     trace = str(uuid.uuid4())
     body['traceID'] = trace
     print(body['traceID'])

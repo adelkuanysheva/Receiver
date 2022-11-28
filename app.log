@@ -491,3 +491,113 @@
 2022-11-24 12:01:51,950 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
 2022-11-24 12:02:24,804 - basicLogger - INFO - Health Check returned 200
 2022-11-24 12:02:54,794 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:12:01,188 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-27 18:12:01,190 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-27 18:12:01,246 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-27 18:12:01,247 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-27 18:12:01,284 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-27 18:12:04,643 - basicLogger - ERROR - Connection Failed!
+2022-11-27 18:12:09,645 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-27 18:12:13,125 - basicLogger - ERROR - Connection Failed!
+2022-11-27 18:12:18,135 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-27 18:12:21,366 - basicLogger - ERROR - Connection Failed!
+2022-11-27 18:12:26,367 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-27 18:12:29,698 - basicLogger - ERROR - Connection Failed!
+2022-11-27 18:12:44,552 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:13:14,540 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:13:44,542 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:14:14,541 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:14:44,544 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:15:18,686 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-27 18:15:18,686 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-27 18:15:18,727 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-27 18:15:18,729 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-27 18:15:18,765 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-27 18:15:22,069 - basicLogger - ERROR - Connection Failed!
+2022-11-27 18:15:27,073 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-27 18:15:30,342 - basicLogger - ERROR - Connection Failed!
+2022-11-27 18:15:35,351 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-27 18:15:38,692 - basicLogger - ERROR - Connection Failed!
+2022-11-27 18:15:43,696 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-27 18:15:48,332 - basicLogger - ERROR - Connection Failed!
+2022-11-27 18:16:14,547 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:16:44,541 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:17:14,542 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:17:44,544 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:18:14,544 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:18:44,543 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:19:14,542 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:19:44,541 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:20:14,543 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:20:44,544 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:21:14,543 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:21:44,541 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:22:14,546 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:22:44,544 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:23:14,542 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:23:44,543 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:24:14,545 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:24:44,543 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:25:14,545 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:25:44,544 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:26:14,545 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:26:44,544 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:27:14,542 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:27:44,545 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:28:14,542 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:28:44,543 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:29:14,542 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:29:44,542 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:30:14,545 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:30:44,541 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:31:14,544 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:31:44,544 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:32:14,541 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:32:44,542 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:33:14,541 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:33:44,543 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:34:14,543 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:34:44,542 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:35:14,542 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:35:44,567 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:36:14,561 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:36:44,547 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:37:14,543 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:37:44,542 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:38:14,544 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:38:44,543 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:39:14,542 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:39:44,547 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:40:14,550 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:40:44,550 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:41:14,550 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:41:44,546 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:42:14,547 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:42:44,549 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:43:14,550 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:43:44,548 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:44:14,550 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:44:44,545 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:45:14,548 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:45:44,548 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:46:14,546 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:46:44,547 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:47:14,542 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:47:44,546 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:48:14,542 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:48:44,546 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:49:14,548 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:49:44,544 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:50:14,544 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:50:44,545 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:51:14,540 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:51:44,546 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:52:14,547 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:52:44,540 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:53:14,540 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:53:44,544 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:54:14,541 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:54:44,544 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:55:14,544 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:55:44,541 - basicLogger - INFO - Health Check returned 200
+2022-11-27 18:56:14,544 - basicLogger - INFO - Health Check returned 200
